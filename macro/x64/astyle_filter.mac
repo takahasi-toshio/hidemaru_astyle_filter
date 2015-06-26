@@ -1,0 +1,1 @@
+filter "astyle_filter.hmf64" , "Astyle" , "mode=c indent-namespaces pad-oper pad-paren-in convert-tabs brackets=break indent-cases min-conditional-indent=0";
