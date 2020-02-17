@@ -1,5 +1,5 @@
 #秀丸エディタ用の変換モジュール（C/C++/C#/Javaソースコード整形）
-ソースコード整形ツールArtistic Style 2.05.1（DLL版）を利用した変換モジュールです。
+ソースコード整形ツールArtistic Style 3.1（DLL版）を利用した変換モジュールです。
 
 Artistic Styleについては以下を参照してください。
 
@@ -12,3 +12,7 @@ http://astyle.sourceforge.net/
 3. UTF-8に変換してから整形処理を行っているため、マルチバイト文字列（特にsjis）に起因する問題は生じないはずです。
 
 astyle.dllはastyle_filter.hmf（hmf64）と同じフォルダに置いてください。
+
+この変換モジュールのソースコードは以下のリポジトリに配置してあります。
+
+https://github.com/takahasi-toshio/hidemaru_astyle_filter
